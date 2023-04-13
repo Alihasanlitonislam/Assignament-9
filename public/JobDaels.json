@@ -1,0 +1,116 @@
+[
+    {
+      "name": "Google",
+      "job": "Software Engineer",
+      "id":"5943859rft945",
+      "title": "Senior Software Engineer",
+      "location": "Mountain View, CA",
+      "salary": "$150,000",
+      "remote": "Remote",
+      "time": "Part Time",
+      "phone": "+8801783228430",
+      "email": "alihasan@gamil.com",
+      "logoLink": "https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png",
+      "jobDescription": "As a Senior Software Engineer at Google, you will be responsible for designing, developing, and maintaining software applications and services, You will work in a collaborative environment to create innovative solutions to complex problems, "
+      ,
+      "jobResponsibilities": 
+      "Design and develop high-quality software, Collaborate with cross-functional teams to deliver projects on time, Identify and resolve software defects and issues, Provide technical guidance and mentorship to junior engineers"
+    ,
+      "education_requirements": "Amazon: A Bachelor's or Master's degree in Computer Science or related field is typically required for most software engineering roles at Amazon. Candidates with equivalent practical experience or relevant certifications may also be considered.",
+      "experience": "5+ years of experience in software development"
+    },
+    {
+      "name": "Amazon",
+      "job": "Product Manager",
+      "id":"5943859rft94f5",
+      "title": "Senior Product Manager",
+      "location": "Seattle, WA",
+      "salary": "$160,000",
+      "remote": "Onsite",
+      "time": "Part Time",
+      "phone": "+8801783228420",
+      "email": "litonislam@gamil.com",
+      "logoLink": "https://static.vecteezy.com/system/resources/previews/014/018/561/original/amazon-logo-on-transparent-background-free-vector.jpg",
+      "jobDescription": "As a Senior Product Manager at Amazon, you will be responsible for driving the development and launch of new products and services.  ",
+      "jobResponsibilities": 
+        "Define product strategy and roadmap, Identify customer needs and market trends, Work with engineering and design teams to develop products, Launch products and monitor performance"
+      ,
+      "education_requirements": "Amazon: A Bachelor's or Master's degree in Computer Science or related field is typically required for most software engineering roles at Amazon. ",
+      "experience": "7+ years of experience in product management"
+    },
+    {
+      "name": "Microsoft",
+      "job": "Data Scientist",
+      "id":"5943859rft945ds",
+      "title": "Senior Data Scientist",
+      "location": "Redmond, WA",
+      "salary": "$170,000",
+      "remote": "Remote",
+      "time": "Full Time",
+      "phone": "+8801783428410",
+      "email": "julfikarislam@gamil.com",
+      "logoLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTO-LN-8cKkUX9JJ6xQWb9_RyldIDBd0Kp4tCJiauo&s",
+      "jobDescription": "As a Senior Data Scientist at Microsoft, you will be responsible for analyzing large data sets to extract insights and inform business decisions. You will work with cross-functional teams to develop and deploy machine learning models and algorithms.",
+      "jobResponsibilities": 
+        "Analyze and interpret large data sets, Develop and deploy machine learning models and algorithms, Communicate insights and recommendations to stakeholders, Collaborate with cross-functional teams to deliver projects on time"
+      ,
+      "education_requirements":
+        "Microsoft: A Bachelor's or Master's degree in Computer Science, Computer Engineering or a related field is generally required for most positions at Microsoft. The specific education requirements may vary depending on the job role and level of seniority.",
+      "experience": "5+ years of experience in data science or related field"
+    },
+    {
+      "name": "Facebook",
+      "job": "Software Engineer",
+      "id":"5943859rft94",
+      "title": "Senior Software Engineer",
+      "location": "Menlo Park, CA",
+      "salary": "$180,000",
+      "time": "Full Time",
+      "remote": "Remote",
+      "phone": "+8801846116794",
+      "email": "milonislam@gamil.com",
+      "logoLink": "https://www.facebook.com/images/fb_icon_325x325.png",
+      "jobDescription": "As a Senior Software Engineer at Facebook, you will be responsible for designing developing software solutions that help connect people all over the world.  "
+      ,
+      "education_requirements":"Facebook: A Bachelor's or Master's degree in Computer Science, Computer Engineering or a related field is usually required for most software engineering roles at Facebook. ",
+      "experience": "5+ years of experience in software development"
+    },
+    {
+      "name": "Apple",
+      "job": "UX Designer",
+      "id":"5943859rft245",
+      "title": "Senior UX Designer",
+      "location": "Cupertino, CA",
+      "salary": "$170,000",
+      "remote": "Remote",
+      "time": "Full Time",
+      "phone": "+8801743564786",
+      "email": "saddem@gamil.com",
+      "logoLink": "https://static.vecteezy.com/system/resources/thumbnails/002/520/838/small/apple-logo-black-isolated-on-transparent-background-free-vector.jpg",
+      "jobDescription": "As a Senior UX Designer at Apple, you will be responsible for designing and delivering exceptional user experiences across a wide range of products and services. You will work with cross-functional ",
+      "jobResponsibilities": 
+        "Define user requirements and develop design solutions, Create wireframes, prototypes, and user interface designs, Collaborate with cross-functional teams to deliver projects on time, Stay up-to-date with emerging design trends and technologies"
+      ,
+      "education_requirements":"Apple: A Bachelor's or Master's degree in Computer Science or a related field is usually required for most software engineering roles at Apple.",
+      "experience": "7+ years of experience in UX design or related field"
+    },
+    {
+      "name": "Tesla",
+      "job": "Mechanical Engineer",
+      "id":"5943859rft942",
+      "title": "Senior Mechanical Engineer",
+      "location": "Fremont, CA",
+      "salary": "$160,000",
+      "remote": "Onsite",
+      "time": "Full Time",
+      "phone": "+8801742223984",
+      "email": "shathiskther@gamil.com",
+      "logoLink": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/1200/675/TESLA-LOGO.jpg?ve=1&tl=1",
+      "jobDescription": "As a Senior Mechanical Engineer at Tesla, you will be responsible for designing and developing mechanical components and systems for electric vehicles. You will work with cross-functional teams to develop innovative solutions to complex engineering problems.",
+      "jobResponsibilities": 
+        "Design and develop mechanical components and systems for electric vehicles, Collaborate with cross-functional teams to deliver projects on time, Identify and resolve mechanical issues and defects, Conduct testing and validation of mechanical systems"
+      ,
+      "education_requirements": "Netflix: A Bachelor's or Master's degree in Computer Science, Computer Engineering or a related field,",
+      "experience": "7+ years of experience in mechanical engineering or related field"
+    }
+]

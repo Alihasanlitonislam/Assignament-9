@@ -1,0 +1,31 @@
+[
+    {
+      "name": "Apple Inc.",
+      "job": "Creative Design",
+      "id": "09584375034hj96",
+      "logo": "https://static.vecteezy.com/system/resources/thumbnails/002/520/838/small/apple-logo-black-isolated-on-transparent-background-free-vector.jpg",
+      "available": "100+ Jobs Available"
+    },
+    {
+      "name": "Amazon.com Inc.",
+      "job": "Software Engineer",
+      "id": "09584375434hj96",
+      "logo": "https://static.vecteezy.com/system/resources/previews/014/018/561/original/amazon-logo-on-transparent-background-free-vector.jpg",
+      "available": "150+ Jobs Available"
+    },
+    {
+      "name": "Tesla Inc.",
+      "job": "Product Manager",
+      "id": "09584375064hj96",
+      "logo": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/1200/675/TESLA-LOGO.jpg?ve=1&tl=1",
+      "available": "300+ Jobs Available"
+    },
+    {
+      "name": "McDonald's ",
+      "job": "Marketing & Sales",
+      "id": "09584375034dj96",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXIW58ubhDXuR2rCpjeh7nWEwaPMSLjQQ4UA&usqp=CAU",
+      "available": "250+ Jobs Available"
+    }
+  ]
+  
